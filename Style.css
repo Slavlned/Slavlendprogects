@@ -1,0 +1,258 @@
+/*Dizain*/
+
+
+.bob {
+	color: #d53be3;
+}
+
+.bob {
+   margin: 790px;
+   font-size: 30px;
+   opacity: 1;
+   
+   transition: opacity .1s
+   linear;
+}
+
+
+
+.bob:hover {
+	color: Red;
+	opacity: 50
+}
+
+.bob {
+	color: #d53be3;
+}
+
+.bob2 {
+   margin: 423px;
+   font-size: 34px;
+   opacity: 1;
+   
+   transition: opacity .1s
+   linear;
+}
+
+.bob2:hover {
+   margin: 423px;
+   font-size: 34px;
+   opacity: .50;
+}
+
+.bob3 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+	top:100px;
+	left:838px;
+	opacity: 1;
+   
+   transition: opacity .1s
+   linear;
+}
+
+.bob3:hover {
+   opacity: .50;
+
+}
+
+
+.bob4 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+	top:100px;
+	left:1340px;
+	opacity: 1;
+   
+   transition: opacity .1s
+   linear;
+}
+.bob4:hover {
+	opacity: .50;
+}
+.bob5 {
+	   margin: 30px;
+	font-size: 28px;
+	position: absolute;
+	left: 789px;
+}
+
+}
+.BBS {
+	   margin: 30px;
+	font-size: 28px;
+}
+
+.bob5 {
+	   margin: 30px;
+	font-size: 28px;
+	position: absolute;
+	top:750px;
+}
+
+.bob6 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+	top:800px;
+	left:845px;
+}
+.bob7 {
+	   margin: 30px;
+	font-size: 16px;
+	position: absolute;
+	top:800px;
+	left:845px;
+}
+.bob8 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:370px;
+	left:760px;
+
+}
+.bob9 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:320px;
+	left:756px;
+}
+
+.bob11 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:1070px;
+	left:720px;
+}
+
+.bob12 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:1016px;
+	left:747px;
+}
+.bob13 {
+	   margin: 30px;
+	font-size: 28px;
+	position: absolute;
+	top:1485px;
+		left:790px;
+}
+.bob14 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+	top:1535px;
+	left:845px;
+}
+.bob16 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:1750px;
+	left:747px;
+}
+.bob15 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:1820px;
+	left:775px;
+}
+.bob18 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:2200px;
+	left:775px;
+}
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+
+    background: linear-gradient(-45deg, #f5a520, #ff7f23, #ff1700);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+.bob19 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:10px;
+	left:80px;
+}
+.cite21 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:320px;
+	left:1250px;
+}
+.cite22 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:370px;
+	left:1250px;
+}
+.cite23 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:890px;
+	left:1350px;
+}
+
+.cite24 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:890px;
+	left:320px;
+}
+.cite27 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:320px;
+	left:250px;
+}
+.cite28 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:370px;
+	left:320px;
+}
+.cite29 {
+	   margin: 30px;
+	font-size: 34px;
+	position: absolute;
+		top:2450px;
+	left:80px;
+}
+
+
+
+
